@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body {
+  font-family: Inter, system-ui, Arial, sans-serif;
+}
+
+.active-link {
+  background: #2563eb;
+  color: white;
+}

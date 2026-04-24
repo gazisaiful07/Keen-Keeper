@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Chen",
+    "picture": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400",
+    "email": "sarah.chen@example.com",
+    "days_since_contact": 8,
+    "status": "on-track",
+    "tags": ["college", "close"],
+    "bio": "Met during university orientation. We still share book recommendations and career updates.",
+    "goal": 14,
+    "next_due_date": "2026-04-30"
+  },
+  {
+    "id": 2,
+    "name": "Marcus Johnson",
+    "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400",
+    "email": "marcus.j@example.com",
+    "days_since_contact": 18,
+    "status": "almost due",
+    "tags": ["work", "mentor"],
+    "bio": "Former teammate who helped me grow professionally and always gives practical advice.",
+    "goal": 20,
+    "next_due_date": "2026-04-26"
+  },
+  {
+    "id": 3,
+    "name": "Aisha Patel",
+    "picture": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400",
+    "email": "aisha.patel@example.com",
+    "days_since_contact": 35,
+    "status": "overdue",
+    "tags": ["family", "travel"],
+    "bio": "Cousin and travel buddy. We planned our first mountain trip together.",
+    "goal": 21,
+    "next_due_date": "2026-04-12"
+  },
+  {
+    "id": 4,
+    "name": "Tom Baker",
+    "picture": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400",
+    "email": "tom.baker@example.com",
+    "days_since_contact": 12,
+    "status": "on-track",
+    "tags": ["gym", "friend"],
+    "bio": "Gym partner who keeps me motivated and celebrates small wins.",
+    "goal": 15,
+    "next_due_date": "2026-05-02"
+  },
+  {
+    "id": 5,
+    "name": "Olivia Martinez",
+    "picture": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=400",
+    "email": "olivia.m@example.com",
+    "days_since_contact": 25,
+    "status": "almost due",
+    "tags": ["school", "music"],
+    "bio": "Old school friend who loves concerts and creative projects.",
+    "goal": 28,
+    "next_due_date": "2026-04-28"
+  },
+  {
+    "id": 6,
+    "name": "Ryan O'Brien",
+    "picture": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400",
+    "email": "ryan.obrien@example.com",
+    "days_since_contact": 42,
+    "status": "overdue",
+    "tags": ["gaming", "online"],
+    "bio": "Online friend from gaming community. We often talk about tech and esports.",
+    "goal": 30,
+    "next_due_date": "2026-04-10"
+  }
+]
