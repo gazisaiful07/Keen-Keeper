@@ -1,16 +1,63 @@
-# React + Vite
+# 👥 KeenKeeper
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+KeenKeeper is a simple and responsive web application that helps users maintain and track meaningful relationships. It allows you to monitor when you last connected with your friends and take quick actions to stay in touch.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Demo
 
-## React Compiler
+https://keenkee.netlify.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 📌 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* 👤 View all friends in a clean card layout
+* 📊 Track relationship status (On Track, Almost Due, Overdue)
+* ⚡ Quick Check-In (Call, Text, Video) with instant timeline update
+* 📜 Timeline page to view interaction history
+* 📈 Friendship Analytics with Pie Chart (Recharts)
+* 🔍 Filter timeline by interaction type
+* 📱 Fully responsive (mobile, tablet, desktop)
+* ❌ Custom 404 Page for invalid routes
+* 🔔 Toast notifications for user actions
+
+---
+
+## 🛠️ Technologies Used
+
+* React.js (Vite)
+* React Router DOM
+* Tailwind CSS
+* Recharts
+* React Hot Toast
+* Lucide React Icons
+
+---
+
+
+---
+
+## 🎯 Key Functionalities
+
+* Clicking **Call / Text / Video** adds a new entry to the timeline
+* Timeline data is stored in **localStorage**
+* Stats page dynamically calculates interaction counts
+* Active navigation highlights current page
+
+---
+
+---
+
+## 📄 License
+
+This project is for educational purposes.
+
+---
+
+## 🙌 Author
+
+* Gazi Saiful
+* GitHub: https://github.com/gazisaiful07
+
+---
